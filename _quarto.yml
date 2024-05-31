@@ -4,6 +4,8 @@ project:
   
 website:
   title: "JEO-ARKEOLOJI"
+  site-url: "https://jeoarkeoloji.github.io/"
+  bread-crumbs: true
   navbar:
     left:
       - href: index.qmd
@@ -18,22 +20,22 @@ website:
         text: Hedef Kitle & Kriterler
       - href: program.qmd
         text: Program
-      - href: index.qmd
+      - href: https://docs.google.com/forms/d/e/1FAIpQLSdbzCQkCQYutvDw_QysIinaCJGGkWG308JK8zAM6tJjXRLQRA/closedform
         text: Başvuru
       - href: iletisim.qmd
         text: İletişim
     tools:
-      - icon: twitter
-        href: https://twitter.com/
       - icon: github
         href: https://github.com/JeoArkeoloji
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2024, JEO-ARKEOLOJI"
+    left: "JEO-ARKEOLOJI"
+    right: "&copy; Copyright 2024"
+    background: "#593196"
 
 format:
   html:
     theme: Pulse
+    css: styles.css
     toc: true
 
 editor: source
