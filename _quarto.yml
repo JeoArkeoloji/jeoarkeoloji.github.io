@@ -14,8 +14,14 @@ website:
         text: Proje Detayları
       - href: amackapsam.qmd
         text: Amaç ve Kapsam     
-      - href: kurullar.qmd
-        text: Kurullar
+      - text: Kurullar
+        menu:
+          - text: "Bilim Kurulu"
+            href: bilimkurulu.qmd
+          - text: "Düzenleme Kurulu"
+            href: duzenlemekurulu.qmd
+          - text: "Eğitmenler"
+            href: egitmenler.qmd
       - href: hedefkitle.qmd
         text: Hedef Kitle & Kriterler
       - href: program.qmd

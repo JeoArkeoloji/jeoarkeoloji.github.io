@@ -1,0 +1,37 @@
+---
+format: html
+engine: knitr
+toc: false
+---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+#### **DÜZENLEME KURULU**
+
+::: {.grid}
+
+::: {.g-col-12}
+
+- Prof. Dr. Yıldırım ATAYETER
+
+- Prof. Dr. Zafer GÖLEN
+
+- Dr. Öğr. Üyesi Mahmut SARI
+
+- Dr. Öğr. Üyesi Salih SOSLU
+
+- Dr. Efdal KAYA
+
+- Öğr. Gör. Uğur TOZKOPARAN
+
+- Araş. Gör. Onur YAYLA
+
+:::
+
+:::
+

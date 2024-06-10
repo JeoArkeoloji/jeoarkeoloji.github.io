@@ -1,0 +1,83 @@
+---
+format: html
+engine: knitr
+toc: false
+---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+#### **EĞİTMENLER**
+
+::: {.grid}
+
+::: {.g-col-6}
+- Prof. Dr. Gülcan SARP
+:::
+
+::: {.g-col-6}
+- Prof. Dr. Yıldırım ATAYETER
+:::
+
+::: {.g-col-6}
+- Prof. Dr. Zafer GÖLEN
+:::
+
+::: {.g-col-6}
+- Dr. Öğr. Üyesi Mahmut SARI
+:::
+
+::: {.g-col-6}
+- Dr. Öğr. Üyesi Salih SOSLU
+:::
+
+::: {.g-col-6}
+- Dr. Ayşegül SOSLU
+:::
+
+::: {.g-col-6}
+- Dr. Efdal KAYA
+:::
+
+::: {.g-col-6}
+- Dr. Uğur Volkan ARI
+:::
+
+::: {.g-col-6}
+- Öğr. Gör. Uğur TOZKOPARAN
+:::
+
+::: {.g-col-6}
+- Araş. Gör. Onur YAYLA
+:::
+
+::: {.g-col-6}
+- Uzman Arkeolog Mustafa ÇİDEM
+:::
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
