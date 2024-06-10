@@ -1,3 +1,16 @@
 ---
-title: "Program"
+format: html
+engine: knitr
+toc: false
 ---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+## **PROGRAM**
+
+**İlerleyen günlerde ilan edilecektir.**

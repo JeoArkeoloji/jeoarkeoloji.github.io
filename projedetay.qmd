@@ -1,3 +1,52 @@
 ---
-title: "Proje Detayları"
+format: html
+engine: knitr
+toc: false
 ---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+## **PROJE DETAYLARI**
+
+::: {.grid}
+
+::: {.g-col-6}
+
+<center><a><img src="img/lavanta.jpg" alt="Logo" width="100%"/></a></center>
+
+:::
+
+::: {.g-col-6}
+
+Proje ekibinin çalışmakta olduğu Üniversiteler gerek basılı yayın gerekse elektronik veritabanları açısından zengin bir altyapıya sahiptir. Alanında tecrübeli olan proje ekibi teorik ve pratik uygulamalarda yetkin ve tecrübelidir.  Proje personeli, kendi içerisinde olabilecek hastalanma/gelememe veya proje süresince ortaya çıkabilecek sorunlara karşı iletişim ve uyumlu çalışma imkânlarından dolayı her an birbirlerine destek verebilecek durumdadırlar.
+
+Proje Dr. Öğr. Üyesi Salih SOSLU yürütücülüğünde, Burdur Mehmet Akif Ersoy Üniversitesi evsahipliğinde düzenlenecektir. Proje katılımcılarının konaklama giderleri ile iaşe masrafları TÜBİTAK tarafından karşılanacaktır. Proje etkinlikleri 5 tam gün ve günlük 10 saat olacak şekilde; sabahları saat 09:00’da başlayacak, 18.30'a kadar eğitimler devam edilecek şekilde planlanmaktadır.
+
+:::
+
+:::
+
+**Konaklama için Lavanta Otel**
+
+::: {layout-ncol=2}
+![Teras Kafe](img/lavanta_teras.jpg)
+
+![Kafe](img/lavanta_cafe.jpg)
+:::
+
+::: {layout-ncol=2}
+![Toplanti](img/lavanta_toplanti.jpg)
+
+![Havuz](img/lavanta_havuz.jpg)
+:::
+
+::: {layout-ncol=2}
+![Hamam](img/lavanta_hamam.jpg)
+
+![Fitnes](img/lavanta_fitnes.jpg)
+:::

@@ -1,4 +1,25 @@
 ---
-title: "Anasayfa"
+format: html
+engine: knitr
+toc: false
 ---
 
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+## **JEOARKEOLOJİ**
+
+::: {.justify}
+<br>
+
+<center><a><img src="img/index.png" alt="Desktekleyenler" width="100%"/></a></center>
+
+<center><a><img src="img/logo.png" alt="Logo" width="500px"/></a></center>
+
+Bu çalışma TÜBİTAK 2237-A kapsamında desteklenmiştir.  Bu çalışmanın amacı Yer Bilimleri Disiplinlerinin teknik ve yöntemlerini kullanarak arkeolojik verilerin daha ayrıntılı ve doğru bir biçimde analiz edilmesini sağlamaktır. Program, multidisipliner bir yaklaşımı teşvik ederek Boubon Antik Kenti (Gölhisar/Burdur) üzerinde gerçekleştirilecek araştırmalarda uygulanacak ve bu süreç, arkeolojik çalışmalara yeni perspektifler ekleyerek hem zaman tasarrufu sağlayacak hem de çeşitli disiplinler arası iş birliklerine olanak tanıyacak şekilde tasarlanmıştır.
+
+:::

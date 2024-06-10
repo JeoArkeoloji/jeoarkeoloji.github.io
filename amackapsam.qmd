@@ -1,3 +1,38 @@
 ---
-title: "Amaç ve Kapsam"
+format: html
+engine: knitr
+toc: false
 ---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+## **AMAÇ VE KAPSAM**
+
+::: {.grid}
+
+::: {.g-col-6}
+<center><a><img src="img/amac.png" alt="Logo" width="400px"/></a></center>
+:::
+
+::: {.g-col-6}
+
+Bu eğitim programının temel amacı, Yer Bilimleri disiplinlerinin teknik ve yöntemlerini kullanarak arkeolojik verilerin daha ayrıntılı ve doğru bir biçimde analiz edilmesini sağlamaktır. Program, multidisipliner bir yaklaşımı teşvik ederek Boubon Antik Kenti (Gölhisar/Burdur) üzerinde gerçekleştirilecek araştırmalarda uygulanacak ve bu süreç, arkeolojik çalışmalara yeni perspektifler ekleyerek hem zaman tasarrufu sağlayacak hem de çeşitli disiplinler arası iş birliklerine olanak tanıyacak şekilde tasarlanmıştır. Bu planlama çerçevesinde bir eğitim etkinliği olarak şekillendirilmiştir. Projenin alt amaçları ise şu şekildedir; 
+
+1.	Programın bir hedefi, katılımcıların kendi üniversitelerinin dışından farklı uzmanlar tarafından verilen eğitimleri alarak, bilgi ve deneyimlerini genişletmelerini sağlamak.
+
+2.	Katılımcıların farklı disiplinlerin metodolojilerini ve tekniklerini kullanarak arkeolojik veriler üzerinde kapsamlı ve derinlemesine araştırmalar yapmalarını olanak sağlamak.
+
+3.	Jeofizik, coğrafya ve coğrafi mekân çalışmaları, jeomorfoloji, jeoloji, arkeolojide çizim teknikleri ve İnsansız Hava Aracı (İHA) haritalama gibi alanlarda uygulamalı eğitimlerle katılımcıların pratik becerilerini geliştirmek.
+4.	Farklı disiplinlerdeki uzmanları bir araya getirerek, arkeoloji çalışmalarına yeni perspektifler ve yenilikçi yaklaşımlar kazandırmak.
+
+5.	Projede elde edilen bulguların ve geliştirilen içeriklerin akademik ve profesyonel topluluklarla paylaşılmasını sağlamak.
+
+
+:::
+
+:::

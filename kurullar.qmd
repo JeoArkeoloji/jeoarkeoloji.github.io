@@ -1,3 +1,131 @@
 ---
-title: "Kurullar"
+format: html
+engine: knitr
+toc: false
 ---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+## **KURULLAR**
+
+::: {.grid}
+
+::: {.g-col-4}
+
+#### **BİLİM KURULU**
+
+- Prof. Dr. Alparslan CEYLAN
+
+- Prof. Dr. Aynur CİVELEK
+
+- Prof. Dr. Aytekin BÜYÜKÖZER
+
+- Prof. Dr. Bahadır DUMAN
+
+- Prof. Dr. Bilal SÖĞÜT
+
+- Prof. Dr. Ferkan SİPAHİ
+
+- Prof. Dr. Gülcan SARP
+
+- Prof. Dr. İbrahim ÜNGÖR
+
+- Prof. Dr. Kadir TEMURÇİN
+
+- Prof. Dr. Oktay ÖZGÜL
+
+- Prof. Dr. Sadık Yüksek SIVACI
+
+- Prof. Dr. Salih CEYLAN
+
+- Prof. Dr. Suat ATEŞLİER
+
+- Prof. Dr. Yıldırım ATAYETER
+
+- Prof. Dr. Zafer GÖLEN
+
+- Prof. Dr. Zeliha GİDER BÜYÜKÖZER
+
+- Doç. Dr. Aydın ERÖN
+
+- Doç. Dr. İlker YİĞİT
+
+- Doç. Dr. Kadir TUNCER
+
+- Doç. Dr. Mert GÜRLEK
+
+- Doç. Dr. Murat TAŞKIRAN
+
+- Doç. Dr. Sedat AKKURNAZ
+
+- Doç. Dr. Yavuz YEĞİN
+
+- Dr. Öğr. Üyesi Mahmut SARI
+
+- Dr. Öğr. Üyesi Mustafa KÖROĞLU
+
+- Dr. Öğr. Üyesi Salih SOSLU
+
+- Arş. Gör. Dr. Düzgün TARKAN
+
+- Öğr. Gör. Aytekin KALKAN
+
+- Burdur Müzesi Müdür Murat KALEAĞASIOĞLU
+
+:::
+
+::: {.g-col-4}
+
+#### **DÜZENLEME KURULU**
+
+- Prof. Dr. Yıldırım ATAYETER
+
+- Prof. Dr. Zafer GÖLEN
+
+- Dr. Öğr. Üyesi Mahmut SARI
+
+- Dr. Öğr. Üyesi Salih SOSLU
+
+- Dr. Efdal KAYA
+
+- Öğr. Gör. Uğur TOZKOPARAN
+
+- Araş. Gör. Onur YAYLA
+
+:::
+
+::: {.g-col-4}
+
+#### **EĞİTMENLER**
+
+- Prof. Dr. Gülcan SARP
+
+- Prof. Dr. Yıldırım ATAYETER
+
+- Prof. Dr. Zafer GÖLEN
+
+- Dr. Öğr. Üyesi Mahmut SARI
+
+- Dr. Öğr. Üyesi Salih SOSLU
+
+- Dr. Ayşegül SOSLU
+
+- Dr. Efdal KAYA
+
+- Dr. Uğur Volkan ARI
+
+- Öğr. Gör. Uğur TOZKOPARAN
+
+- Araş. Gör. Onur YAYLA
+
+- Uzman Arkeolog Mustafa ÇİDEM
+
+:::
+
+:::
+

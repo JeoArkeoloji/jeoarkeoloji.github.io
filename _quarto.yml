@@ -20,16 +20,16 @@ website:
         text: Hedef Kitle & Kriterler
       - href: program.qmd
         text: Program
-      - href: https://docs.google.com/forms/d/e/1FAIpQLSdbzCQkCQYutvDw_QysIinaCJGGkWG308JK8zAM6tJjXRLQRA/closedform
+      - href: https://docs.google.com/forms/d/e/1FAIpQLSdbzCQkCQYutvDw_QysIinaCJGGkWG308JK8zAM6tJjXRLQRA/viewform
         text: Başvuru
       - href: iletisim.qmd
         text: İletişim
     tools:
       - icon: github
         href: https://github.com/JeoArkeoloji
-  page-footer:
-    left: "JEO-ARKEOLOJI"
-    right: "&copy; Copyright 2024"
+  page-footer: 
+    left: "JEO-ARKEOLOJI &copy; Copyright 2024"
+    right: " "
     background: "#593196"
 
 format:

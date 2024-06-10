@@ -1,3 +1,46 @@
 ---
-title: "Hedef Kitle"
+format: html
+engine: knitr
+toc: false
 ---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+## **HEDEF KİTLE**
+
+::: {.grid}
+
+::: {.g-col-6}
+<center><a><img src="img/arcgis-mission-banner-fg.png" alt="Logo" width="100%"/></a></center>
+:::
+
+::: {.g-col-6}
+
+Katılımcıların aşağıdaki kriterlere göre başvuru yapmaları beklenmektedir. Kriterler aşağıdaki gibidir;
+Yüksek lisansta ders dönemini bitirmiş olmak, doktorada bir özel şart aranmamaktadır,
+
+- Katılımcıların lisansüstü çalışma alanları arkeoloji ve yer bilimleri (jeoloji, jeofizik, fiziki coğrafya, jeodezi ve fotogrametri) disiplinleri içerisinden olması gerekmektedir.
+
+- Tüm başvuru yapan katılımcıların başvuruları arasında, akademik başarı notu sıralamasında ilk 20’de yer almak,
+
+- Projeye katılmak isteme gerekçesini belirten niyet mektubu yazmak,
+
+- En az bir akademisyenden referans mektubu almak,
+
+- Projenin yaygın etkisine katkı sunmak için öğrendiklerini paylaşmayı kabul etmek,
+
+- Katılımcı aday eğer bir kamu kurum ve kuruluşunda çalışıyor ise OHAL kapsamında yürürlüğe konulan Kanun Hükmünde Kararnameler ile doğrudan veya anılan Kanun Hükmünde Kararnamelerde öngörülen usuller çerçevesinde meslekten, kamu görevinden veya ilgili kurumların teşkilatından çıkarılmamış olmak
+
+- Bu etkinlik çerçevesinde belirlenen amaç ve kapsama uygun başka bir eğitime katılmamış olmak,
+
+- Bu kriterlere göre katılımcıların seçimde iki aday arasında eşitlik olması halinde yaşı küçük olan tercih edilecektir.
+
+:::
+
+:::
+
