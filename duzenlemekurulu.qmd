@@ -11,7 +11,7 @@ p {
 }
 ```
 
-#### **DÜZENLEME KURULU**
+## **DÜZENLEME KURULU**
 
 ::: {.grid}
 
@@ -65,7 +65,6 @@ Dr. Efdal Kaya, 2015 yılında Lisans eğitimini Aksaray Üniversitesi Harita M�
 bölümünde tamamladı. 2017 yılında yüksek lisans eğitimini “İnsansız Hava Araçları
 ve Lazer Tarama Sistemleri ile Kaya Bloklarının 3 Boyutlu Modellenmesi ve Hacim Hesabı” adlı yüksek
 lisans tezi ile Aksaray Üniversitesi Harita Mühendisliği Anabilimdalında tamamladı. Ardından doktora eğitimini Kocaeli Üniversitesinde 2023 yılında tamamladı. Şuanda İskenderun Teknik Üniversitesinde çalışmaktadır. Temel çalışma alanları Uzaktan Algılama Uygulamaları, Coğrafi Bilgi Sistemleri, Şehir İklimi, Makine Öğrenmesi, Derin Öğrenme ve Mekansal Programlamadır.
-şeklindedir.
 :::
 
 ::: {.g-col-6}
@@ -84,7 +83,7 @@ lisans tezi ile Aksaray Üniversitesi Harita Mühendisliği Anabilimdalında tam
 <br>
 <center>**Araş. Gör. Onur YAYLA**</center>
 <br>
-Dr. Onur YAYLA, Süleyman Demirel Üniversitesi Eğitim Fakültesi, Türkçe ve Sosyal Bilimler Eğitimi Bölümü, Sosyal Bilgiler Eğitimi Anabilim Dalı'nda görev yapmaktadır. Lisans eğitimini Mehmet Akif Ersoy Üniversitesi Eğitim Fakültesi Sosyal Bilgiler Öğretmenliği Bölümü'nde, yüksek lisansını Karadeniz Teknik Üniversitesi Eğitim Bilimleri Enstitüsü Sosyal Bilgiler Eğitimi Anabilim Dalı'nda tamamlamıştır. Uzmanlık alanları arasında fiziki coğrafya, jeomorfoloji yer almaktadır. Araştırma konuları arasında Boraboy Heyelanı (Amasya) jeomorfometrik değerlendirmeler, Burdur Gölü'nde kıyı çizgisi değişimleri ve iklim ilişkisi, ve baraj göllerinde arazi kullanım planlamasındaki çevresel hassasiyet analizi bulunmaktadır. 
+Araş. Gör. Onur YAYLA, Süleyman Demirel Üniversitesi Eğitim Fakültesi, Türkçe ve Sosyal Bilimler Eğitimi Bölümü, Sosyal Bilgiler Eğitimi Anabilim Dalı'nda görev yapmaktadır. Lisans eğitimini Mehmet Akif Ersoy Üniversitesi Eğitim Fakültesi Sosyal Bilgiler Öğretmenliği Bölümü'nde, yüksek lisansını Karadeniz Teknik Üniversitesi Eğitim Bilimleri Enstitüsü Sosyal Bilgiler Eğitimi Anabilim Dalı'nda tamamlamıştır. Uzmanlık alanları arasında fiziki coğrafya, jeomorfoloji yer almaktadır. Araştırma konuları arasında Boraboy Heyelanı (Amasya) jeomorfometrik değerlendirmeler, Burdur Gölü'nde kıyı çizgisi değişimleri ve iklim ilişkisi, ve baraj göllerinde arazi kullanım planlamasındaki çevresel hassasiyet analizi bulunmaktadır. 
 
 :::
 

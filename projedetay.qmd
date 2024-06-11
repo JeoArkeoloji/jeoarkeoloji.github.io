@@ -2,6 +2,7 @@
 format: html
 engine: knitr
 toc: false
+lightbox: true
 ---
 
 ```{css}
@@ -34,13 +35,13 @@ Proje Dr. Öğr. Üyesi Salih SOSLU yürütücülüğünde, Burdur Mehmet Akif E
 **Konaklama için Lavanta Tepesi Otel**
 
 ::: {layout-ncol=2}
-![Otelden Manzara](img/k2.png)
+![Otelden Manzara](img/k2.png){.lightbox}
 
-![Oda](img/k3.png)
+![Oda](img/k3.png){.lightbox}
 :::
 
 ::: {layout-ncol=2}
-![Salda](img/k5.jpg)
+![Salda](img/k5.jpg){.lightbox}
 
-![Restaurant](img/k4.png)
+![Restaurant](img/k4.png){.lightbox}
 :::

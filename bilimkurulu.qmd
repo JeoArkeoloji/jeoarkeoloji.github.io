@@ -11,7 +11,7 @@ p {
 }
 ```
 
-#### **BİLİM KURULU**
+## **BİLİM KURULU**
 
 ::: {.grid}
 
