@@ -2,6 +2,7 @@
 format: html
 engine: knitr
 toc: false
+lightbox: true
 ---
 
 ```{css}
@@ -16,7 +17,7 @@ p {
 ::: {.grid}
 
 ::: {.g-col-6}
-<center><a><img src="img/arcgis-mission-banner-fg.png" alt="Logo" width="100%"/></a></center>
+![](img/arcgis-mission-banner-fg.png){.lightbox}
 :::
 
 ::: {.g-col-6}

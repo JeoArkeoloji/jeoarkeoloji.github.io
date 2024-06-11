@@ -17,7 +17,7 @@ p {
 
 ::: {.g-col-6}
 
-<center><a><img src="img/lavanta.jpg" alt="Logo" width="100%"/></a></center>
+<center><a><img src="img/k1.png" alt="Logo" width="100%"/></a></center>
 
 :::
 
@@ -31,22 +31,16 @@ Proje Dr. Öğr. Üyesi Salih SOSLU yürütücülüğünde, Burdur Mehmet Akif E
 
 :::
 
-**Konaklama için Lavanta Otel**
+**Konaklama için Lavanta Tepesi Otel**
 
 ::: {layout-ncol=2}
-![Teras Kafe](img/lavanta_teras.jpg)
+![Otelden Manzara](img/k2.png)
 
-![Kafe](img/lavanta_cafe.jpg)
+![Oda](img/k3.png)
 :::
 
 ::: {layout-ncol=2}
-![Toplanti](img/lavanta_toplanti.jpg)
+![Salda](img/k5.jpg)
 
-![Havuz](img/lavanta_havuz.jpg)
-:::
-
-::: {layout-ncol=2}
-![Hamam](img/lavanta_hamam.jpg)
-
-![Fitnes](img/lavanta_fitnes.jpg)
+![Restaurant](img/k4.png)
 :::
