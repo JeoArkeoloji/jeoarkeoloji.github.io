@@ -16,67 +16,54 @@ p {
 ::: {.grid}
 
 ::: {.g-col-6}
-
 <center><img src="img/gs.png" alt="drawing" height="200px" width="200px"/></center>
 <br>
 <center>**Prof. Dr. Gülcan SARP**</center>
 <br>
 Prof. Dr. Gülcan Sarp, Süleyman Demirel Üniversitesi İnsan ve Toplum Bilimleri Fakültesi, Coğrafya Bölümü, Fiziki Coğrafya Anabilim Dalı'nda görev yapmaktadır. Lisans eğitimini Ankara Üniversitesi Jeoloji Mühendisliği Bölümü'nde, yüksek lisans ve doktora eğitimini ise Orta Doğu Teknik Üniversitesi Jeodezi ve Coğrafi Bilgi Sistemleri alanında tamamlamıştır. Uzmanlık alanları arasında fiziki coğrafya, jeomorfoloji, uzaktan algılama ve coğrafi bilgi sistemleri (CBS) yer almaktadır. Prof. Dr. Sarp, çeşitli ulusal ve uluslararası dergilerde yayımlanmış birçok makaleye sahiptir.
-
 :::
 
 ::: {.g-col-6}
-
 <center><img src="img/ya.png" alt="drawing" height="200px" width="200px"/></center>
 <br>
 <center>**Prof. Dr. Yıldırım ATAYETER**</center>
 <br>
 Prof. Dr. Yıldırım Atayeter, Süleyman Demirel Üniversitesi İnsan ve Toplum Bilimleri Fakültesi, Coğrafya Bölümü, Fiziki Coğrafya Anabilim Dalı'nda görev yapmaktadır. Lisans eğitimini Selçuk Üniversitesi Coğrafya Öğretmenliği Bölümü'nde, yüksek lisansını Selçuk Üniversitesi Coğrafya Anabilim Dalı'nda ve doktorasını Marmara Üniversitesi Coğrafya Öğretmenliği Anabilim Dalı'nda tamamlamıştır. Uzmanlık alanları arasında fiziki coğrafya, jeomorfoloji ve doğal afetler yer almaktadır. Prof. Dr. Atayeter, çeşitli ulusal ve uluslararası dergilerde yayımlanmış birçok makaleye sahiptir.
-
 :::
 
 ::: {.g-col-6}
-
 <center><img src="img/zg.png" alt="drawing" height="200px" width="200px"/></center>
 <br>
 <center>**Prof. Dr. Zafer GÖLEN**</center>
 <br>
 Prof. Dr. Zafer GÖLEN, Süleyman Demirel Üniversitesi Fen-Edebiyat Fakültesi, Tarih Bölümü, Yakınçağ Tarihi Anabilim Dalı'nda görev yapmaktadır. Lisans eğitimini Ondokuz Mayıs Üniversitesi Eğitim Fakültesi Tarih Öğretmenliği Bölümü'nde, yüksek lisansını Ondokuz Mayıs Üniversitesi Sosyal Bilimler Enstitüsü Tarih Anabilim Dalı'nda ve doktorasını Süleyman Demirel Üniversitesi Sosyal Bilimler Enstitüsü Tarih Anabilim Dalı'nda tamamlamıştır. Uzmanlık alanları arasında Balkan Tarihi, Osmanlı Tarihi ve Askeri Tarih yer almaktadır. Tanzimat Dönemi'nde Osmanlı Devleti'nin Bosna Hersek ormanlarını korumaya yönelik çabaları, Ali Paşa Rızvanbegoviç, Yugoslavya’da yayımlanan Türkçe dergilerde 'Osmanlı' imgesi gibi konularda bilimsel araştırmalar yapmıştır. Ulusal ve uluslararası hakemli dergilerde çok sayıda makalesi yayımlanmıştır.
-
 :::
 
 ::: {.g-col-6}
-
 <center><img src="img/ms.png" alt="drawing" height="200px" width="200px"/></center>
 <br>
 <center>**Dr. Öğr. Üyesi Mahmut SARI**</center>
 <br>
 Dr. Öğr. Üyesi Mahmut SARI, Gümüşhane Üniversitesi Jeofizik Mühendisliği A.B.D'de görev yapmaktadır. Lisans derecesini Atatürk Üniversitesi Matematik Bölümünde tamamladı. Yüksek lisans öğrenimini Cumhuriyet Üniversitesi Jeofizik Mühendisliği Anabilim Dalında, doktora öğrenimini ise Karadeniz Teknik Üniversitesi Jeofizik Mühendisliği Anabilim Dalında tamamladı. Kaya kütle geçirimliliği, yeraltı gömülü nesnelerin belirlenmesi ve şev stabilite analizleri gibi uygulamalı jeofiziğin birçok alanında çalışmalarda bulunmuştur. Çoğunlukla sığ yeraltı jeofizik araştırmalarda yaygın olarak kullanılan yer radarı (GPR), manyetik ve elektrik özdirenç tomografi (ERT) yöntemleri ile yeraltının 2 ve 3 boyutlu görüntülenmesi konularında çalışmaktadır.
-
 :::
 
 ::: {.g-col-6}
-
 <center><img src="img/ss.png" alt="drawing" height="200px" width="200px"/></center>
 <br>
 <center>**Dr. Öğr. Üyesi Salih SOSLU**</center>
 <br>
 Dr. Öğr. Üyesi Salih SOSLU, Burdur Mehmet Akif Ersoy Üniversitesi Arkeoloji Bölümü’nde görev yapmaktadır. Kentsel ve Kırsal Arkeoloji, Savunma Mimarisi, Antik Çağ Savaş Kültürü ve Arkeolojik Küçük Buluntular konusunda çalışmaları bulunmaktadır. Pamukkale Üniversitesi’nden Eskiçağ Tarihi alanında yüksek lisans, Aydın Adnan Menderes Üniversitesi’nden Klasik Arkeoloji alanında doktora derecelerini almıştır. T.C. Kültür ve Turizm Bakanlığı Kültür Varlıkları ve Müzeler Genel Müdürlüğü ve Türk Tarihi Kurumu ile çok sayıda arkeolojik kazı ve yüzey araştırmalarını konu alan projelerde görev almıştır.
-
 :::
 
 ::: {.g-col-6}
-
 <center><img src="img/as.png" alt="drawing" height="200px" width="200px"/></center>
 <br>
 <center>**Dr. Ayşegül SOSLU**</center>
 <br>
 Dr. Ayşegül SOSLU, Arkeolojide seramik, cam ve metal gibi küçük buluntular konusunda çalışmaları bulunmaktadır. Klasik Arkeoloji uzmanıdır. Aydın Adnan Menderes Üniversitesi’nden Klasik Arkeoloji alanında yüksek lisans ve doktora derecelerini almıştır. T.C. Kültür ve Turizm Bakanlığı Kültür Varlıkları ve Müzeler Genel Müdürlüğü ve Türk Tarihi Kurumu ile çok sayıda arkeolojik kazı ve yüzey araştırmalarını konu alan projelerde görev almıştır. Arkeolog olarak alanında çalışmalarını devam ettirmektedir.
-
 :::
 
 ::: {.g-col-6}
-
 <center><img src="img/ek.jpg" alt="drawing" height="200px" width="200px"/></center>
 <br>
 <center>**Dr. Efdal KAYA**</center>
@@ -85,47 +72,38 @@ Dr. Efdal Kaya, 2015 yılında Lisans eğitimini Aksaray Üniversitesi Harita M�
 bölümünde tamamladı. 2017 yılında yüksek lisans eğitimini “İnsansız Hava Araçları
 ve Lazer Tarama Sistemleri ile Kaya Bloklarının 3 Boyutlu Modellenmesi ve Hacim Hesabı” adlı yüksek
 lisans tezi ile Aksaray Üniversitesi Harita Mühendisliği Anabilimdalında tamamladı. Ardından doktora eğitimini Kocaeli Üniversitesinde 2023 yılında tamamladı. Şuanda İskenderun Teknik Üniversitesinde çalışmaktadır. Temel çalışma alanları Uzaktan Algılama Uygulamaları, Coğrafi Bilgi Sistemleri, Şehir İklimi, Makine Öğrenmesi, Derin Öğrenme ve Mekansal Programlamadır.
-
 :::
 
 ::: {.g-col-6}
-
 <center><img src="img/va.png" alt="drawing" height="200px" width="200px"/></center>
 <br>
 <center>**Dr. Uğur Volkan ARI**</center>
 <br>
 Dr. Uğur Volkan Arı, Gümüşhane Üniversitesi'nde akademik personel olarak görev yapmaktadır. Gümüşhane Üniversitesi Fen Bilimleri Enstitüsü Jeoloji Mühendisliği Anabilim Dalı'nda yüksek lisans ve doktora eğitimini tamamlamıştır. Yayınlarından bazıları, Gümüşhane bölgesindeki erken Jura ve Kretase dönemi tortullarının jeokimyasal özellikleri üzerine odaklanmıştır.
-
 :::
 
 ::: {.g-col-6}
-
 <center><img src="img/ut.png" alt="drawing" height="200px" width="200px"/></center>
 <br>
 <center>**Öğr. Gör. Uğur TOZKOPARAN**</center>
 <br>
 Öğr. Gör. Uğur TOZKOPARAN, Burdur Mehmet Akif Ersoy Üniversitesi Yeşilova İsmail Akın Turizm Meslek Yüksekokulu Turist Rehberliği Bölümünde çalışmaktadır. Süleyman Demirel Üniversitesi, Burdur Eğitim Fakültesi Sosyal Bilgiler Öğretmenliği Bölümü'nden mezun olmuş, Mehmet Akif Ersoy Üniversitesi Eğitim Bilimleri Enstitüsü İlköğretim Bölümü Sosyal Bilgiler Eğitimi Anabilim Dalında yüksek lisansını tamamlamıştır. Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Coğrafya Bölümünde Beşeri İktisadi Coğrafya Anabilim Dalında doktora eğitimine devam etmektedir. Beşeri ve iktisadi coğrafya alanında çalışmalarını sürdüren araştırmacının Burdur’un turizm coğrafyası, doğal ve kültürel miras özellikleri, turizm potansiyeli, ekonomik coğrafyası, nüfus coğrafyası konularında çalışmaları bulunmaktadır.
-
 :::
 
 ::: {.g-col-6}
-
 <center><img src="img/oy.png" alt="drawing" height="200px" width="200px"/></center>
 <br>
 <center>**Araş. Gör. Onur YAYLA**</center>
 <br>
-Araş. Gör. Onur YAYLA, Süleyman Demirel Üniversitesi Eğitim Fakültesi, Türkçe ve Sosyal Bilimler Eğitimi Bölümü, Sosyal Bilgiler Eğitimi Anabilim Dalı'nda görev yapmaktadır. Lisans eğitimini Mehmet Akif Ersoy Üniversitesi Eğitim Fakültesi Sosyal Bilgiler Öğretmenliği Bölümü'nde, yüksek lisansını Karadeniz Teknik Üniversitesi Eğitim Bilimleri Enstitüsü Sosyal Bilgiler Eğitimi Anabilim Dalı'nda tamamlamıştır. Uzmanlık alanları arasında fiziki coğrafya, jeomorfoloji yer almaktadır. Araştırma konuları arasında Boraboy Heyelanı (Amasya) jeomorfometrik değerlendirmeler, Burdur Gölü'nde kıyı çizgisi değişimleri ve iklim ilişkisi, ve baraj göllerinde arazi kullanım planlamasındaki çevresel hassasiyet analizi bulunmaktadır. 
-
+Araş. Gör. Onur YAYLA, Mehmet Akif Ersoy Üniversitesi Eğitim Fakültesi, Türkçe ve Sosyal Bilimler Eğitimi Bölümü, Sosyal Bilgiler Eğitimi Anabilim Dalı’nda görev yapmaktadır. Lisans eğitimini Mehmet Akif Ersoy Üniversitesi Eğitim Fakültesi Sosyal Bilgiler Öğretmenliği Bölümü’nde, yüksek lisansını Karadeniz Teknik Üniversitesi Eğitim Bilimleri Enstitüsü Sosyal Bilgiler Eğitimi Anabilim Dalı’nda tamamlamıştır. Araştırmacının doktora uzmanlık alanı heyelan set gölleri ve doğal afetlerdir. Fiziki coğrafya ve jeomorfoloji konularında güncel yöntemler kullanarak araştırmalar yapmaktadır. Araştırma konuları arasında heyelanlarda ve set göllerinde jeomorfometrik değerlendirmeler, Burdur Gölü’nde kıyı çizgisi değişimleri ve iklim ilişkisi, baraj göllerinde arazi kullanım planlamasındaki çevresel hassasiyet analizleri bulunmaktadır.
 :::
 
 ::: {.g-col-6}
-
 <center><img src="img/mc.png" alt="drawing" height="200px" width="200px"/></center>
 <br>
 <center>**Uzman Arkeolog Mustafa ÇİDEM**</center>
 <br>
 Uzman Arkeolog Mustafa ÇİDEM, Klasik Arkeoloji uzmanıdır ve arkeolojide mimari bezeme, su sistemleri ve kentsel ve kırsal arkeoloji konularında çalışmaları bulunmaktadır. Burdur Mehmet Akif Ersoy Üniversitesi’nden Klasik Arkeoloji alanında yüksek lisans derecesini almış olup, Aydın Adnan Menderes Üniversitesi’nde Klasik Arkeoloji alanında doktora yapmaktadır. T.C. Kültür ve Turizm Bakanlığı Kültür Varlıkları ve Müzeler Genel Müdürlüğü ve Türk Tarihi Kurumu ile çok sayıda arkeolojik kazı ve yüzey araştırmalarını konu alan projelerde görev almıştır. Arkeolog olarak alanında çalışmalarını devam ettirmektedir.
-
 :::
 
 :::
