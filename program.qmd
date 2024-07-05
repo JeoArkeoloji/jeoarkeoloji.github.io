@@ -13,4 +13,4 @@ p {
 
 ## **PROGRAM**
 
-**İlerleyen günlerde ilan edilecektir.**
+Programa erişmek için <a href="program.pdf" target="_blank">tıklayınız.</a>

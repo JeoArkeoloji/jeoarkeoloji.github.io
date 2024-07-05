@@ -24,7 +24,7 @@ Prof. Dr. Yıldırım Atayeter, Süleyman Demirel Üniversitesi İnsan ve Toplum
 :::
 
 ::: {.g-col-6}
-<center><img src="img/zg.png" alt="drawing" height="200px" width="200px"/></center>
+<center><img src="img/zafer.jpg" alt="drawing" height="200px" width="200px"/></center>
 <br>
 <center>**Prof. Dr. Zafer GÖLEN**</center>
 <br>
