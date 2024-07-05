@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.554">
+<meta name="generator" content="quarto-1.5.47">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>JEO-ARKEOLOJI</title>
+<title>egitmenler – JEO-ARKEOLOJI</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Amaç ve Kapsam</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-kurullar" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-kurullar" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Kurullar</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-kurullar">    
@@ -137,7 +137,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
     <a href="https://github.com/JeoArkeoloji" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
 </div>
       </div> <!-- /container-fluid -->
@@ -186,13 +186,13 @@ p {
 </div>
 <div class="g-col-6">
 <center>
-<img src="img/zg.png" alt="drawing" height="200px" width="200px">
+<img src="img/zafer.jpg" alt="drawing" height="200px" width="200px">
 </center>
 <br>
 <center>
 <strong>Prof.&nbsp;Dr.&nbsp;Zafer GÖLEN</strong>
 </center>
-<p><br> Prof.&nbsp;Dr.&nbsp;Zafer GÖLEN, Süleyman Demirel Üniversitesi Fen-Edebiyat Fakültesi, Tarih Bölümü, Yakınçağ Tarihi Anabilim Dalı’nda görev yapmaktadır. Lisans eğitimini Ondokuz Mayıs Üniversitesi Eğitim Fakültesi Tarih Öğretmenliği Bölümü’nde, yüksek lisansını Ondokuz Mayıs Üniversitesi Sosyal Bilimler Enstitüsü Tarih Anabilim Dalı’nda ve doktorasını Süleyman Demirel Üniversitesi Sosyal Bilimler Enstitüsü Tarih Anabilim Dalı’nda tamamlamıştır. Uzmanlık alanları arasında Balkan Tarihi, Osmanlı Tarihi ve Askeri Tarih yer almaktadır. Tanzimat Dönemi’nde Osmanlı Devleti’nin Bosna Hersek ormanlarını korumaya yönelik çabaları, Ali Paşa Rızvanbegoviç, Yugoslavya’da yayımlanan Türkçe dergilerde ‘Osmanlı’ imgesi gibi konularda bilimsel araştırmalar yapmıştır. Ulusal ve uluslararası hakemli dergilerde çok sayıda makalesi yayımlanmıştır.</p>
+<p><br> Prof.&nbsp;Dr.&nbsp;Zafer GÖLEN, Burdur Mehmet Akif Ersoy Üniversitesi Fen-Edebiyat Fakültesi, Tarih Bölümü, Yakınçağ Tarihi Anabilim Dalı’nda görev yapmaktadır. Lisans eğitimini Ondokuz Mayıs Üniversitesi Eğitim Fakültesi Tarih Öğretmenliği Bölümü’nde, yüksek lisansını Ondokuz Mayıs Üniversitesi Sosyal Bilimler Enstitüsü Tarih Anabilim Dalı’nda ve doktorasını Süleyman Demirel Üniversitesi Sosyal Bilimler Enstitüsü Tarih Anabilim Dalı’nda tamamlamıştır. Uzmanlık alanları arasında Balkan Tarihi, Osmanlı Tarihi ve Askeri Tarih yer almaktadır. Tanzimat Dönemi’nde Osmanlı Devleti’nin Bosna Hersek ormanlarını korumaya yönelik çabaları, Ali Paşa Rızvanbegoviç, Yugoslavya’da yayımlanan Türkçe dergilerde ‘Osmanlı’ imgesi gibi konularda bilimsel araştırmalar yapmıştır. Ulusal ve uluslararası hakemli dergilerde çok sayıda makalesi yayımlanmıştır.</p>
 </div>
 <div class="g-col-6">
 <center>
@@ -315,18 +315,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -358,7 +347,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("https:\/\/jeoarkeoloji\.github\.io\/");
@@ -366,7 +377,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
