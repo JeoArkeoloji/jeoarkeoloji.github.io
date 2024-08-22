@@ -61,7 +61,7 @@ lisans tezi ile Aksaray Üniversitesi Harita Mühendisliği Anabilimdalında tam
 ::: {.g-col-6}
 <center><img src="img/ut.png" alt="drawing" height="200px" width="200px"/></center>
 <br>
-<center>**Öğr. Gör. Uğur TOZKOPARAN**</center>
+<center>**Dr. Uğur TOZKOPARAN**</center>
 <br>
 Öğr. Gör. Uğur TOZKOPARAN, Burdur Mehmet Akif Ersoy Üniversitesi Yeşilova İsmail Akın Turizm Meslek Yüksekokulu Turist Rehberliği Bölümünde çalışmaktadır. Süleyman Demirel Üniversitesi, Burdur Eğitim Fakültesi Sosyal Bilgiler Öğretmenliği Bölümü'nden mezun olmuş, Mehmet Akif Ersoy Üniversitesi Eğitim Bilimleri Enstitüsü İlköğretim Bölümü Sosyal Bilgiler Eğitimi Anabilim Dalında yüksek lisansını tamamlamıştır. Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Coğrafya Bölümünde Beşeri İktisadi Coğrafya Anabilim Dalında doktora eğitimine devam etmektedir. Beşeri ve iktisadi coğrafya alanında çalışmalarını sürdüren araştırmacının Burdur’un turizm coğrafyası, doğal ve kültürel miras özellikleri, turizm potansiyeli, ekonomik coğrafyası, nüfus coğrafyası konularında çalışmaları bulunmaktadır.
 :::
@@ -69,7 +69,7 @@ lisans tezi ile Aksaray Üniversitesi Harita Mühendisliği Anabilimdalında tam
 ::: {.g-col-6}
 <center><img src="img/oy.png" alt="drawing" height="200px" width="200px"/></center>
 <br>
-<center>**Araş. Gör. Onur YAYLA**</center>
+<center>**Dr. Onur YAYLA**</center>
 <br>
 Araş. Gör. Onur YAYLA, Mehmet Akif Ersoy Üniversitesi Eğitim Fakültesi, Türkçe ve Sosyal Bilimler Eğitimi Bölümü, Sosyal Bilgiler Eğitimi Anabilim Dalı’nda görev yapmaktadır. Lisans eğitimini Mehmet Akif Ersoy Üniversitesi Eğitim Fakültesi Sosyal Bilgiler Öğretmenliği Bölümü’nde, yüksek lisansını Karadeniz Teknik Üniversitesi Eğitim Bilimleri Enstitüsü Sosyal Bilgiler Eğitimi Anabilim Dalı’nda tamamlamıştır. Araştırmacının doktora uzmanlık alanı heyelan set gölleri ve doğal afetlerdir. Fiziki coğrafya ve jeomorfoloji konularında güncel yöntemler kullanarak araştırmalar yapmaktadır. Araştırma konuları arasında heyelanlarda ve set göllerinde jeomorfometrik değerlendirmeler, Burdur Gölü’nde kıyı çizgisi değişimleri ve iklim ilişkisi, baraj göllerinde arazi kullanım planlamasındaki çevresel hassasiyet analizleri bulunmaktadır. 
 :::
