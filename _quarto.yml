@@ -34,7 +34,7 @@ website:
       - icon: github
         href: https://github.com/JeoArkeoloji
   page-footer: 
-    left: "JEO-ARKEOLOJI &copy; Copyright 2024"
+    left: "JEO-ARKEOLOJI-II &copy; Copyright 2025"
     right: " "
     background: "#593196"
 
@@ -46,3 +46,4 @@ format:
 
 
 editor: source
+
