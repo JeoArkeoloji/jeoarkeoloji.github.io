@@ -65,8 +65,6 @@ p {
 
 - Doç. Dr. Yavuz YEĞİN
 
-- Dr. Öğr. Üyesi Mahmut SARI
-
 - Dr. Öğr. Üyesi Mustafa KÖROĞLU
 
 - Dr. Öğr. Üyesi Salih SOSLU
@@ -87,15 +85,13 @@ p {
 
 - Prof. Dr. Zafer GÖLEN
 
-- Dr. Öğr. Üyesi Mahmut SARI
+- Dr. Öğr. Üyesi Onur YAYLA
+
+- Dr. Öğr. Üyesi Efdal KAYA
+
+- Dr. Öğr. Üyesi Uğur TOZKOPARAN
 
 - Dr. Öğr. Üyesi Salih SOSLU
-
-- Dr. Efdal KAYA
-
-- Öğr. Gör. Uğur TOZKOPARAN
-
-- Araş. Gör. Onur YAYLA
 
 :::
 
@@ -109,23 +105,24 @@ p {
 
 - Prof. Dr. Zafer GÖLEN
 
-- Dr. Öğr. Üyesi Mahmut SARI
+- Dr. Öğr. Üyesi Onur YAYLA
 
 - Dr. Öğr. Üyesi Salih SOSLU
 
 - Dr. Ayşegül SOSLU
 
-- Dr. Efdal KAYA
+- Dr. Öğr. Üyesi Efdal KAYA
 
 - Dr. Uğur Volkan ARI
 
-- Öğr. Gör. Uğur TOZKOPARAN
+- Dr. Öğr. Üyesi Uğur TOZKOPARAN
 
-- Araş. Gör. Onur YAYLA
+- Dr. Mustafa ÇİDEM
 
-- Uzman Arkeolog Mustafa ÇİDEM
+- Uzman Jeomorfolog Hasan AKPINAR
+
+:::
 
 :::
 
-:::
 
