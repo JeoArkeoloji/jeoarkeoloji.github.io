@@ -11,7 +11,7 @@ p {
 }
 ```
 
-## **JEOARKEOLOJİ**
+## **JEOARKEOLOJİ II**
 
 ::: {.justify}
 <br>
@@ -32,8 +32,6 @@ Alanında uzman akademisyenlerin katkılarıyla, bu projede yer alacak araştır
 
 - **Dr. Salih Soslu**, **Dr. Ayşegül Soslu** ve **Mustafa Çidem**'in arkeoloji alanındaki çalışmaları, 
 
-- **Dr. Mahmut Sarı**'nın jeofizik alanındaki teknik bilgi ve deneyimi, 
-
 - **Dr. Uğur Volkan Arı**'nın jeokimya ve jeoloji çalışmaları, 
 
 - **Dr. Efdal Kaya**'nın QGIS ve coğrafi bilgi sistemleri konusundaki derinlemesine analizleri, 
@@ -43,5 +41,4 @@ Alanında uzman akademisyenlerin katkılarıyla, bu projede yer alacak araştır
 - **Dr. Uğur Tozkoparan**'ın antik kentlerde turizm destinasyonları üzerine çalışmaları bu programın başarısına katkıda bulunacaktır.
 
 Bu program, lisansüstü öğrencileri için eşsiz bir fırsat sunmaktadır. Boubon Antik Kenti'nde yapılacak araştırmalara katılacak olanlar, sadece akademik bilgi kazandırmakla kalmayacak, aynı zamanda disiplinler arası iş birliği ile yenilikçi ve verimli çalışma yöntemleri geliştirme imkanı bulacaklardır.
-
 :::
