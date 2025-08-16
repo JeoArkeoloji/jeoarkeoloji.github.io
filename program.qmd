@@ -13,4 +13,5 @@ p {
 
 ## **PROGRAM**
 
-Programa erişmek için <a href="program.pdf" target="_blank">tıklayınız.</a>
+
+Proje desteklendiği takdirde program bu sayfada ilan edilecektir.
